@@ -1,4 +1,4 @@
-"""Connexion PostgreSQL via SQLAlchemy (repli SQLite en local)."""
+
 import logging
 from typing import Generator
 
